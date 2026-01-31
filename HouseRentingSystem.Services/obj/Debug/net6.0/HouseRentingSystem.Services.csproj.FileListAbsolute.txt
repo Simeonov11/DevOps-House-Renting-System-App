@@ -10,3 +10,4 @@ D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\
 D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
 D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
 D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
+D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.sourcelink.json

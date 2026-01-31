@@ -283,3 +283,4 @@ D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.
 D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.pdb
 D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.genruntimeconfig.cache
 D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\ref\HouseRentingSystem.Web.dll
+D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.sourcelink.json

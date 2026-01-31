@@ -356,3 +356,4 @@ D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net
 D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.pdb
 D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.genruntimeconfig.cache
 D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\ref\HouseRentingSystem.Tests.dll
+D:\GitHub\DevOps-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.sourcelink.json
